@@ -14,3 +14,8 @@ given creds:	wiener:peter
 brute creds:	ansible:monkey
 
 Your API Key is: T5dF69nepDnoYzhnkQPyUGWZlPdtZx2C
+=============
+
+Broken brute-force protection, multiple credentials per request
+ 
+Your API Key is: yLKrfVTUSvszli5aWzYNaYkT6NgdxDfV
